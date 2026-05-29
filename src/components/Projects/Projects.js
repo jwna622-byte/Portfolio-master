@@ -8,7 +8,6 @@ import fantasyCover from "../../Assets/Projects/fantasy-cover.png";
 import dontBeAfraidCover from "../../Assets/Projects/dont-be-afraid-cover.png";
 import deliveryCover from "../../Assets/Projects/delivery-man-cover.png";
 import aiDoctorsCover from "../../Assets/Projects/ai-doctors-cover.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import xiaohongshuCover from "../../Assets/Projects/xiaohongshu-cover.png";
 
 function Projects() {
